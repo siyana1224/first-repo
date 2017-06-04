@@ -2,3 +2,6 @@ just some random text, written by a random person.
 have a nice day!
 
 Updated with Git BASH
+
+updated with TortoiseGit
+
